@@ -23,7 +23,7 @@ repository               : "Kilislan/Kilislan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "张帆 Fan Zhang" # 侧边栏名字
   pronouns         :  # example: "she/her"  代词，bio上一行的内容
   bio              : "Short biography for the left-hand sidebar" # 左侧边栏的简短传记
