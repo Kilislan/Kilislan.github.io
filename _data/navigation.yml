@@ -10,6 +10,9 @@
 main:
   - title: "Publications"
     url: /publications/
+  
+  - title: "Research Direction"
+    url: /direction/
 
   - title: "Talks"
     url: /talks/    

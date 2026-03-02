@@ -1,9 +1,9 @@
 ---
-permalink: /RD/
+permalink: /direction/
 title: "Research Direction"
 author_profile: true
 redirect_from:
-- /ResearchDirection/
+- /direction/
 ---
 
 本人最初的研究方向是密码算法的相关高速实现。网络空间安全的一个重要基础就是密码学，相比于其他的算法，密码学算法本身就是为了追求安全而设计的复杂算法，不可避免得会带来一定性能的损失。密码算法的高速实现，研究的是在不改变算法的安全强度的前提下，如何让安全相关的算法、协议、应用跑得更快的问题。
