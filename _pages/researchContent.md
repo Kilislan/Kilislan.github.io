@@ -3,7 +3,6 @@ permalink: /researchContent/
 title: "Research Content"
 author_profile: true
 ---
-
 一、**硬件和芯片安全**
 
 硬件安全是指评估特定芯片在执行特定算法时存在的信息泄漏的课题，主要方法是利用外接采集设备或读取芯片内置模块信息，在芯片中追踪数据踪迹，以逆向破解芯片隐私信息。
@@ -23,4 +22,3 @@ author_profile: true
 随着SSL/TLS等加密协议的广泛使用，网络数据逐步呈现密态化，在密文条件下对网络流量分析是一个重要的研究方向。为此，研究团队针对加密流量的侧信道特征（如频域、时域）进行建模，构建系列检测方案，应用场景包括DDoS防御、入侵检测系统（IDS）、僵尸网络（Botnet）发现、高级可持续威胁攻击(APT)的关联与溯源、DPDK与P4可编程交换机的模型卸载、负载均衡、网络诱发现象适配、未知攻击检测等。同时，考虑到模型本身的安全性（如对抗样本问题），如何构建高效的攻击（如流量混淆、基于选择性符号执行S2E的内核协议路径探索）、设计鲁棒容错的模型，也是研究团队关注的方向。
 
 ![3](/images/researchContent/researchContent3.png) ![4](/images/researchContent/researchContent4.png) ![5](/images/researchContent/researchContent5.png) ![6](/images/researchContent/researchContent6.png) ![7](/images/researchContent/researchContent7.png) ![8](/images/researchContent/researchContent8.png) ![9](/images/researchContent/researchContent9.png)
-
