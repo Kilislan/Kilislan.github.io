@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "张帆 Fan Zhang" # 侧边栏名字
-  pronouns         :  # example: "she/her"  代词，bio上一行的内容
-  bio              : "Short biography for the left-hand sidebar" # 左侧边栏的简短传记
-  location         : "浙江杭州"
-  employer         : "Zhe Jiang University"
+  pronouns         : "教授 | 博士生导师" # example: "she/her"  代词，bio上一行的内容
+  bio              : "研究方向为网络空间安全（硬件安全、物联网安全、网络安全、系统安全、密码学等）" # 左侧边栏的简短传记
+  location         : "浙江大学玉泉校区曹光彪主楼526-3"
+  employer         : "浙江大学 计算机科学与技术学院"
   uri              : # URL
-  email            : "zhangfan@zju.edu.cn" 
+  email            : "fanzhang@zju.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=o7DuSwsAAAAJ" #谷歌学术主页
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
