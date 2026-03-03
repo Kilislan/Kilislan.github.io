@@ -14,8 +14,11 @@ main:
   - title: "Research Content"
     url: /researchContent/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Papers"
+    url: /papers/
+
+  # - title: "Publications"
+  #   url: /publications/
 
   - title: "Books"
     url: /books/  
